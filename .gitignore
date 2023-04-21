@@ -1,7 +1,12 @@
+Binaries/
+Build/
+Content/Collections/
+Content/Developers/
+Content/OtherAsset/
 DerivedDataCache/
 Intermediate/
 Saved/
 Script/
-Content/Collections/
-Content/Developers/
-OtherAsset/
+WindowsNoEditor/
+
+
