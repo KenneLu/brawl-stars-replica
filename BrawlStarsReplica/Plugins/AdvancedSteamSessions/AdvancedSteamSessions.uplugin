@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "4.26",
+	"FriendlyName": "Advanced Steam Sessions",
+	"Description": "Adds new blueprint functions to handle more advanced session operations in Steam. REQUIRES ADVANCED SESSIONS",
+	"Category": "Advanced Sessions Plugin",
+	"CreatedBy": "Joshua Statzer",
+	"CreatedByURL": "N/A",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AdvancedSteamSessions",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	]
+}
