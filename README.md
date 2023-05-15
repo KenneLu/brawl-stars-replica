@@ -1,2 +1,2 @@
-# ue-property-brawl-stars
-Brawl-Starts-Game's 3D role property, tests passing on UE4.26 blueprint.
+# ue-brawl-stars-replica
+《BrawlStarts》Game Repica Demo, tests passing on UE4.26 blueprint.
