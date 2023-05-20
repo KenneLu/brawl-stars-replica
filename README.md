@@ -1,2 +1,13 @@
-# ue-brawl-stars-replica
-《BrawlStarts》Game Repica Demo, tests passing on UE4.26 blueprint.
+# ue-brawl-stars-replica 可执行包(PC-Windows)
+- 分卷解压：用【7-Zip】软件分卷解压。
+- 运行游戏：点击【BrawlStarsReplica.exe】即可运行。
+- 电脑依赖：如果显示需要安装【Microsoft Visual C++ Runtime】，点击【是(Y)】安装，重启电脑后即可。
+- 网络联机：局域网可以愉快玩耍，Steam 会很卡。
+- 游戏操作：
+  - WSAD 或 ↑↓←→ 控制角色移动。
+  - 长按鼠标左键，拖动瞄准，松开释放普攻。
+  - 长按鼠标右键，拖动瞄准，松开释放大招。
+  - 通过命中敌方，可以积攒大招能量条，积攒满会变红色。
+  - Ctrl 或 Esc 可以调出设置面板。
+  - 【小队】功能还未能正常使用。
+
