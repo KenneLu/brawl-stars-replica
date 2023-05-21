@@ -1,4 +1,4 @@
-# ue-brawl-stars-replica 可执行包(PC-Windows)
+# ue-brawl-stars-replica 可运行游戏包(PC-Windows)
 - 分卷解压：用【7-Zip】软件分卷解压。
 - 运行游戏：点击【BrawlStarsReplica.exe】即可运行。
 - 电脑依赖：如果显示需要安装【Microsoft Visual C++ Runtime】，点击【是(Y)】安装，重启电脑后即可。
