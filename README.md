@@ -25,6 +25,7 @@
 - PC ( Windows ) | 电脑（Windows 系统）
 
 # Editor / Plugins: | 引擎 / 插件
+- VisualStudio 2019 | VS 2019（UE4.26 最高只支持到 2019）
 - Unreal Engine 4.26 | 虚幻引擎 4.26
 - Advance Session 4.26 | 高级会话插件 4.26
 - Advance Steam Session 4.26 | 高级 Steam 会话插件 4.26
